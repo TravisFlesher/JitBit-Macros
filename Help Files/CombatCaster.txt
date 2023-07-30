@@ -1,0 +1,7 @@
+Before you start:
+Position desired combat spell in first position of spellbook
+Have runes in inventory
+
+Notes:
+//each mouse movement is randomized by position and delay
+

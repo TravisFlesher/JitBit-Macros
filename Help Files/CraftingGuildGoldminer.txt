@@ -1,0 +1,12 @@
+Before you start:
+Bring pickaxe, brown apron, and sleeping bag to the crafting guild gold rocks
+Zoom camera to about medium level, with all gold rocks in view
+
+Notes:
+//clicks are randomized by time
+//pause the script when you have 20+ ores, go talk to master crafter
+and exchange your ore for certifactes, walk back and resume botting
+//may have to adjust the camera a bit, to find the sweet spot
+
+
+

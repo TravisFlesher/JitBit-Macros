@@ -1,0 +1,22 @@
+Before you start:
+Equip melee gear, bring a sleeping bag, and go to the watchman room in the watchtower
+-use these settings-
+Do not show ground items
+menu font size 1
+Batch Progress Bar On
+sidebar on
+
+Notes:
+//All delays randomized
+//may require some trial and error to find sweet spot on camera angle. I usually use
+medium zoom, with compass facing southwest
+//displays pause button if logged out or fatigued
+
+
+
+
+
+
+
+
+

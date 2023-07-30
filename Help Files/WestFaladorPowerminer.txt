@@ -1,0 +1,15 @@
+Before you start:
+Bring pickaxe and sleeping bag to the iron rocks west of falador/ south of taverly
+Stand so that you're adjacent to the 2 iron rocks that are close to one another
+Zoom camera all the way in, and align compass to 'due northwest'
+Show no ground items
+sidebar on
+
+
+Notes:
+//clicks are randomized by time and position, to appear humanlike
+
+
+
+
+

@@ -1,0 +1,17 @@
+Before you start:
+Put shears in inventory slot 1, go to sheep
+Change JitBit #of times to repeat to 1
+
+Notes:
+//made this one to make shearing way easier
+//clicks are randomized by position and time
+//i tried to make it more automatic but it wasn't working well, as the sheep are quite hyper.
+//press the hotkey, then click a sheep, repeat
+//you could put a different item in slot 1 and use this script for various purposes
+
+
+
+
+
+
+

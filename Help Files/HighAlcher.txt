@@ -1,0 +1,10 @@
+Before you start:
+Equip fire staff, put natures in first slot, notes to be alched in 2nd slot
+Drag High Level Alchemy to first position of spellbook
+
+Notes:
+//clicks are randomized by time and position.
+ time between alchs varies from 1.2 to 3.2 seconds
+
+
+

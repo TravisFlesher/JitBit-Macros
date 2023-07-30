@@ -1,0 +1,11 @@
+Before you start:
+Deposit everything and withdraw these items in the following order:
+1 bowstring, 1 unstrung bow, 14 bowstrings, 14 unstrung bows
+Save to loadout slot 3
+Stand one tile north of a bank chest, zoom camera all the way in, and align due south
+
+Notes:
+//all clicks are randomized by position and time
+//works on any log
+
+

@@ -1,0 +1,24 @@
+Before you start:
+Withdraw staff and/or runes for falador teleport and telekinetic grab
+Drag telekinetic grab to first position in the spellbook
+Find entrance to crafting guild cow field, but do not enter it. Instead hug the fence 
+(staying outside of it) and go as far west as you can, and position camera until you can
+see the snape grasses on the peninsula.
+Rotate your compass due 'northwest' and adjust zoom until the snape on the left is fully
+visible but barely touching the left side of the game window.
+sidebar must be enabled
+
+Notes:
+//after finding the annoying camera angle, change camera back to manual and
+careful not to zoom in or out whilst running the script
+//all clicks are randomized by time and position, to appear humanlike
+//a pause button appears if you log out or become fatigued
+
+
+
+
+
+
+
+
+

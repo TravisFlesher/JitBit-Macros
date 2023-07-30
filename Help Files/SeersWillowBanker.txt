@@ -1,0 +1,23 @@
+Before you start:
+Equip a hatchet
+Go to the willow trees northwest of seers bank, make sure you are just north
+of the middle tree before starting
+Position camera so that all 3 willow trees are visible, but no other trees are visible
+camera mode set to manual
+Sidebar must be on
+Batch Progress Bar must be on
+
+Notes:
+//most clicks are randomized by time and position
+//the bot stops when inventory is filled, displays a popup button, and will walk
+back to the bank
+//bank your logs manually and walk backto your starting position. then you can press the 
+OK button from the popup,or restart the script
+//there is a rare scenario if you reach 100 fatigue and full inventory at the same
+time, you'll need to stop the script and start
+again after banking/sleeping/ and going back to the willow trees
+
+
+
+
+

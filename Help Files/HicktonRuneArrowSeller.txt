@@ -1,0 +1,11 @@
+Before you start:
+Have rune arrows in your bag
+Have fog turned on
+Zoom camera out all the way
+Open Hickton's shop,  and click his rune arrows
+
+Notes:
+//zooming all the way out with fog on prevents colors from moving behind the search area
+//the bot will sell 1 arrow, but only when the shop's stock is at 100.
+//clicks randomized by position and time
+

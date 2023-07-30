@@ -1,0 +1,25 @@
+Before you start:
+55 agility required for log bridge
+Inventory contains 1 lockpick, bunch of mind and air runes
+Save loadout to slot 4
+Display inventory space must be on
+Align camera due east and go to the chaos druid building just north of ardougne
+after lockpicking the door, walk 2 tiles north
+Zoom camera so that you can see just a couple of pixels of the westernmost wall
+of the octagonal room that you're standing in
+
+
+Notes:
+//if you move away from default fighting position (2 tiles north after lockpicking door), go back to it
+//no randomness added except a little when it collects loot (I didn't think more was needed)
+//when no druids are present on screen, fighter will attempt to pickup loot
+(if you're not killing fast enough, you may have to pause script to manually collect loot.
+i found it helpful to press F1 to display the low-res scnalines on screen, which will 
+momentarily prevent the bot from seeing druids and initiate the looting subroutine,
+ then press F1 again to resume fighting)
+//when it sees that you have a full inventory, the bot will stop fighting, walk to the bank,
+ reset your loadout, walk back to the locked door, and display a confirmation button that
+pauses the script until you press OK. which will give you time to open the door and
+ get back into position. 
+
+

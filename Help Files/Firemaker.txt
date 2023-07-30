@@ -1,0 +1,11 @@
+Before you start:
+Have tinderbox in first bag slot, rest logs
+Change Jitbit settings to only run the script once
+
+Notes:
+//all clicks are randomized by position and time
+//Pressing hotkey will drop a log and light it, after that you must manually move
+before pressing hotkey again to make another fire, etc etc etc
+
+
+

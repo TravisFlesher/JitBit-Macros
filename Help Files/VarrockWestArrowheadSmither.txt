@@ -1,0 +1,11 @@
+Before you start:
+stand in front of bank chest at varrock west bank
+make a loadout of 30 bars and equip a hammer. save to slot 1
+set camera 'due south', zoom camera all the way out,
+begin script while standing in front of chest, with the bank open
+
+Notes:
+//all clicks are randomized by position and time
+//works on any bar, given you have the level for making 50 arrowheads at once
+
+

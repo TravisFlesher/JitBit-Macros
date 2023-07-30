@@ -1,0 +1,22 @@
+Before you start:
+Setup your gear as follows - equip a pickaxe. first slot air talisman, second slot noted 
+rune essence, third slot air runes.
+Stand one tile to the N of the essence in barbarian village, zoom camera all the way in
+and rotate compass due south
+Display inventory space must be set to On
+
+Notes:
+//This bot will mine a full load of essence, go and craft them into airs, return, and repeat.
+Quite complex, I know.
+//All delays are randomized, most mouse clicks are randomized, except the position of
+minimap movement, which must remain consistent to work.
+//If logged out, a button will appear that will pause the bot until clicked. 
+A button will also appear if you have sidebar enabled and reach 100 fatigue.
+
+
+
+
+
+
+
+

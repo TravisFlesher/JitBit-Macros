@@ -1,0 +1,15 @@
+Before you start:
+Stand just west of the banana tree. Must be the right banana tree.
+--leave bank and walk north along the fence, then turn east as soon
+as you see the fence opening, the first tree is the right banana tree.--
+Align camera 'due-west'
+Zoom all the way in
+Make active an empty chat tab (private or team) since messages can get in the way
+
+Notes:
+//each mouse movement is randomized by position and delay
+//long random delays , for authentic humanlike appearance. 
+//can be quite fast, or slower by up to a minute between iterations
+
+
+

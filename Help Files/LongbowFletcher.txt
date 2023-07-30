@@ -1,0 +1,19 @@
+Before you start:
+Save a loadout to slot 1 as follows - sleeping bag first, knife second, rest logs
+Equip the loadout and close bank 
+Stand one tile north of a bank chest, and rotate camera due south, zoom all the way in
+Turn Sidebar On in the settings menu or by simply pressing F2
+Notes:
+//All delays and clicks are randomized by position and time
+//works on any log
+//displays pause button if logged or fatigued
+//editing one of the click coordinates in the script makes it possible to change to fletching
+shafts or shortbows
+
+
+
+
+
+
+
+
